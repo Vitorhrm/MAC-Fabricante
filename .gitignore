@@ -1,0 +1,37 @@
+# Cache do script
+oui_cache.json
+
+# Arquivos Excel temporários do sistema (não os modelos)
+~$*
+*.tmp
+
+# Arquivos Excel de saída gerados (manter apenas modelos)
+logins_totais_fabricante.xlsx
+relatorio*.xlsx
+
+# Logs e outputs opcionais
+*.log
+
+# Ambiente Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Arquivos do VS Code
+.vscode/
+
+# Arquivos de sistema Windows
+Thumbs.db
+Desktop.ini
+
+# Arquivos de sistema macOS
+.DS_Store
+
+# Backup files
+*.bak
+*.backup
