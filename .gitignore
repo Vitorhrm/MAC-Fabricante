@@ -5,10 +5,6 @@ oui_cache.json
 ~$*
 *.tmp
 
-# Arquivos Excel de saída gerados (manter apenas modelos)
-logins_totais_fabricante.xlsx
-relatorio*.xlsx
-
 # Logs e outputs opcionais
 *.log
 
